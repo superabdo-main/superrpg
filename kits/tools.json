@@ -1,0 +1,143 @@
+{
+  "1": {
+    "name": "Rusty Screwdriver",
+    "sell_price": 5,
+    "tier": "I",
+    "rate": 75,
+    "shop_available": true
+  },
+  "2": {
+    "name": "Worn Out Wrench",
+    "sell_price": 7,
+    "tier": "I",
+    "rate": 70,
+    "shop_available": true
+  },
+  "3": {
+    "name": "Old Hammer",
+    "sell_price": 6,
+    "tier": "I",
+    "rate": 72,
+    "shop_available": true
+  },
+  "4": {
+    "name": "Basic Pliers",
+    "sell_price": 8,
+    "tier": "I",
+    "rate": 68,
+    "shop_available": true
+  },
+  "5": {
+    "name": "Tattered Rake",
+    "sell_price": 6,
+    "tier": "I",
+    "rate": 74,
+    "shop_available": true
+  },
+  "6": {
+    "name": "Weathered Saw",
+    "sell_price": 9,
+    "tier": "I",
+    "rate": 71,
+    "shop_available": true
+  },
+  "7": {
+    "name": "Cracked Mallet",
+    "sell_price": 7,
+    "tier": "I",
+    "rate": 69,
+    "shop_available": true
+  },
+  "8": {
+    "name": "Used Measuring Tape",
+    "sell_price": 5,
+    "tier": "I",
+    "rate": 77,
+    "shop_available": true
+  },
+  "9": {
+    "name": "Faded Drill",
+    "sell_price": 8,
+    "tier": "I",
+    "rate": 73,
+    "shop_available": true
+  },
+  "10": {
+    "name": "Old Garden Shears",
+    "sell_price": 7,
+    "tier": "I",
+    "rate": 70,
+    "shop_available": true
+  },
+
+  "11": {
+    "name": "Golden Compass",
+    "sell_price": 25,
+    "tier": "II",
+    "rate": 90,
+    "shop_available": true
+  },
+  "12": {
+    "name": "Silver Telescope",
+    "sell_price": 30,
+    "tier": "II",
+    "rate": 85,
+    "shop_available": true
+  },
+  "13": {
+    "name": "Enchanted Pocket Watch",
+    "sell_price": 20,
+    "tier": "II",
+    "rate": 92,
+    "shop_available": true
+  },
+  "14": {
+    "name": "Mystic Key",
+    "sell_price": 28,
+    "tier": "II",
+    "rate": 88,
+    "shop_available": true
+  },
+  "15": {
+    "name": "Ornate Locket",
+    "sell_price": 35,
+    "tier": "II",
+    "rate": 87,
+    "shop_available": true
+  },
+  "16": {
+    "name": "Ancient Map",
+    "sell_price": 22,
+    "tier": "II",
+    "rate": 91,
+    "shop_available": true
+  },
+  "17": {
+    "name": "Crystal Figurine",
+    "sell_price": 32,
+    "tier": "II",
+    "rate": 89,
+    "shop_available": true
+  },
+  "18": {
+    "name": "Gilded Mirror",
+    "sell_price": 27,
+    "tier": "II",
+    "rate": 86,
+    "shop_available": true
+  },
+  "19": {
+    "name": "Rare Gemstone",
+    "sell_price": 40,
+    "tier": "II",
+    "rate": 93,
+    "shop_available": true
+  },
+  "20": {
+    "name": "Golden Amulet",
+    "sell_price": 50,
+    "tier": "II",
+    "rate": 95,
+    "shop_available": true
+  }
+}

@@ -1,0 +1,37 @@
+Basic Attack:
+
+    Player chooses to attack.
+    Calculate damage: Damage = Player_ATK - Enemy_DEF
+    Subtract damage from enemy's HP.
+    Output result: "You attacked the enemy for 10 damage!"
+
+Defend:
+
+    Player chooses to defend.
+    For that turn, reduce incoming damage by a certain percentage (e.g., 50%).
+    Example: Incoming_Damage = Enemy_ATK - (Player_DEF * 1.5)
+    Increasing the mana
+
+Use Ability/Spell:
+
+    Player chooses a spell or ability.
+    Check if the player has enough MP to use it.
+    Calculate damage (if it's an offensive spell) or heal (if it's a healing spell).
+    Example formula for a fire spell: Fire_Damage = Player_MATK - Enemy_MDEF
+    Output result: "You cast Fireball and dealt 15 damage!"
+
+Use Item:
+
+    Player chooses an item (e.g., health potion, mana potion).
+    Apply the effect (restore HP, restore MP, etc.).
+    Example: "You used a health potion and restored 20 HP!"
+
+Run (optional):
+
+    Player attempts to escape the battle.
+    Random chance to succeed based on speed comparison (e.g., if Player_SPD > Enemy_SPD then the player escapes).
+
+
+
+
+●

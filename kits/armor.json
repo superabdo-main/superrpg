@@ -1,0 +1,110 @@
+{
+    "6457": {
+        "defence": 15,
+        "speed": 2,
+        "luck": 3,
+        "name": "Leather Helmet",
+        "type": "helmet",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 72,
+        "sell_price": 50,
+        "rate": 66
+    },
+    "102": {
+        "defence": 19,
+        "speed": 2,
+        "luck": 3,
+        "name": "Leather Chestplate",
+        "type": "chestplate",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 86,
+        "sell_price": 60,
+        "rate": 74
+    },
+    "598": {
+        "defence": 18,
+        "speed": 2,
+        "luck": 3,
+        "name": "Leather Leggings",
+        "type": "leggings",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 82,
+        "sell_price": 57,
+        "rate": 92
+    },
+    "8378": {
+        "defence": 17,
+        "speed": 2,
+        "luck": 3,
+        "name": "Leather Boots",
+        "type": "boots",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 79,
+        "sell_price": 55,
+        "rate": 86
+    },
+    "2557": {
+        "defence": 21,
+        "speed": 2,
+        "luck": 4,
+        "name": "Iron Helmet",
+        "type": "helmet",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 97,
+        "sell_price": 67,
+        "rate": 94
+    },
+    "1150": {
+        "defence": 22,
+        "speed": 2,
+        "luck": 4,
+        "name": "Iron Boots",
+        "type": "boots",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 100,
+        "sell_price": 70,
+        "rate": 67
+    },
+    "9602": {
+        "defence": 27,
+        "speed": 3,
+        "luck": 4,
+        "name": "Iron Chestplat",
+        "type": "chestplate",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 122,
+        "sell_price": 85,
+        "rate": 98
+    },
+    "5143": {
+        "defence": 26,
+        "speed": 2,
+        "luck": 3,
+        "name": "Iron Leggings",
+        "type": "leggings",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 111,
+        "sell_price": 77,
+        "rate": 80
+    },
+    "7246": {
+        "defence": 31,
+        "speed": 1,
+        "luck": 3,
+        "name": "Lava Chestplate",
+        "type": "chestplate",
+        "tier": "I",
+        "shop_available": true,
+        "buy_price": 252,
+        "sell_price": 176,
+        "rate": 91
+    }
+}
